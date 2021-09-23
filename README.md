@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @brunobortolettolima
-- 👀 I’m interested in  conhecimentos e crescer como programador
-- 🌱 I’m currently learning  frontend , javascript
-- 💞️ I’m looking to collaborate  em tudo.
-- 📫  Podem me encontrar atrevés do e-mail bruno.blima@hotmail.com
+- 👋 Olá, sou o Bruno Bortoletto Lima
+- 👀 Interesse em front-end
+- 🌱 Estudando Certified Tech Developer - JavaScript, HTML, CSS, MySQL, Infra e Soft-Skills
+- 📫 Podem me encontrar através do e-mail bruno.blima@hotmail.com
 
 <!---
 brunobortolettolima/brunobortolettolima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
