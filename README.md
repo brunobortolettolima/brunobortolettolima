@@ -6,13 +6,13 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm data analisty!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:outbox_tray: 2024 Goals: create a new project the data.
 
  
 
